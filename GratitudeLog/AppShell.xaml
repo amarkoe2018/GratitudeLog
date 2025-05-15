@@ -26,6 +26,11 @@
         ContentTemplate="{DataTemplate pages:ManageMetaPage}"
         Route="manage" />
 
+    <ShellContent 
+        Title="Gratitude"
+        ContentTemplate="{DataTemplate pages:GratitudePage}"
+        Route="gratitude" />
+    
     <Shell.FlyoutFooter>
         <Grid Padding="15">
             <sf:SfSegmentedControl x:Name="ThemeSegmentedControl" 

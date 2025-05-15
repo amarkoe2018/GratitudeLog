@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GratitudeLog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c4f76e9bfab4e9a655357bb0c0120e53a6a983cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GratitudeLog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GratitudeLog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
