@@ -28,6 +28,7 @@
 
     <ShellContent 
         Title="Gratitude"
+        Icon="{StaticResource IconGratitude}"
         ContentTemplate="{DataTemplate pages:GratitudePage}"
         Route="gratitude" />
     
